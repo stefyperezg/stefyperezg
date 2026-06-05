@@ -12,7 +12,7 @@ Python | PostgreSQL | AWS | GIS | GTFS | CDS | Data Pipelines
 
 ## Featured Projects
 - Smart city systems analytics
-- GBFS ETL Pipeline - CloufFormation IaC Deployment
+- GBFS Serverless Pipeline - CloufFormation Deployment
 
 ## 📫 Contact
 LinkedIn: www.linkedin.com/in/stefanny-perez
