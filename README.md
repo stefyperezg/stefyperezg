@@ -1,5 +1,3 @@
-From raw data to real-world systems!
-
 Data Engineering Lead | Smart Cities | AWS Cloud
 
 ---
