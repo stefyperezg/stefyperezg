@@ -1,16 +1,21 @@
-## Hi there 👋
+From raw data to real-world systems!
 
-<!--
-**stefyperezg/stefyperezg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Engineering Lead | Smart Cities | AWS Cloud
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I do
+- Build data pipelines on AWS (Lambda, API Gateway, EventBridge, RDS, SQS)
+- Work on smart mobility and urban analytics
+- Teach and design data-driven city systems
+
+## Skills
+Python | PostgreSQL | AWS | GIS | GTFS | CDS | Data Pipelines
+
+## Featured Projects
+- Smart city systems analytics
+- GBFS ETL Pipeline - CloufFormation IaC Deployment
+
+## 📫 Contact
+LinkedIn: www.linkedin.com/in/stefanny-perez
+Email: stefanny.perez.g1@gmail.com
