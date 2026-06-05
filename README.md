@@ -11,7 +11,7 @@ Data Engineering Lead | Smart Cities | AWS Cloud
 Python | PostgreSQL | AWS | GIS | GTFS | CDS | Data Pipelines
 
 ## Featured Projects
-- Smart city systems analytics
+- Smart City Tools - Sstems Analytics
 - GBFS Serverless Pipeline - CloufFormation Deployment
 
 ## Contact
