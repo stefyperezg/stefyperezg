@@ -1,4 +1,4 @@
-Data Engineering Lead | Smart Cities | AWS Cloud
+Data Engineer | Smart Cities | AWS Cloud
 
 ---
 
