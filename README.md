@@ -23,14 +23,14 @@ Python | PostgreSQL | AWS | GIS | GTFS |GBFS | CDS | Data Pipelines
   <tr>
     <td align="center" height="150">
       <img src="images/aws-cloud-practitioner-badge.png" width="110" alt="AWS Certified Cloud Practitioner Badge">
-      <br><br>
+      <br>
       <b>AWS Certified Cloud Practitioner</b>
       <br>
       <sub>✅ Earned</sub>
     </td>
     <td align="center" height="150">
       <img src="images/aws-ai-practitioner-badge.png" width="110" alt="AWS Certified AI Practitioner Badge">
-      <br><br>
+      <br>
       <b>AWS Certified AI Practitioner</b>
       <br>
       <sub>🚧 In Progress</sub>
