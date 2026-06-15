@@ -19,7 +19,7 @@ Python | PostgreSQL | AWS | GIS | GTFS |GBFS | CDS | Data Pipelines
 
 ## AWS Certifications
 
-<table align="center">
+<table align="center" border="0">
   <tr>
     <td align="center" height="150">
       <img src="images/aws-cloud-practitioner-badge.png" width="110" alt="AWS Certified Cloud Practitioner Badge">
@@ -54,10 +54,10 @@ Python | PostgreSQL | AWS | GIS | GTFS |GBFS | CDS | Data Pipelines
 ---
 
 ## Featured Projects
-- GBFS Serverless Pipeline - CloufFormation Deployment
-- Smart City Tools - Systems Analytics
+- [GBFS Serverless Pipeline - CloufFormation Deployment](https://github.com/stefyperezg/serverless-mobility-data-pipeline)
+- [Smart City Tools - Systems Analytics](https://github.com/stefyperezg/smart-cities-tools)
 
 
 ## Contact
-LinkedIn: www.linkedin.com/in/stefanny-perez
-Email: stefanny.perez.g1@gmail.com
+- LinkedIn: [stefanny-perez](www.linkedin.com/in/stefanny-perez)
+- Email: stefanny.perez.g1@gmail.com
