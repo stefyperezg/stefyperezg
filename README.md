@@ -19,7 +19,7 @@ Python | PostgreSQL | AWS | GIS | GTFS |GBFS | CDS | Data Pipelines
 
 ## AWS Certifications
 
-<table align="center" border="0">
+<table align="center" border="0" width="90%">
   <tr>
     <td align="center" height="150">
       <img src="images/aws-cloud-practitioner-badge.png" width="110" alt="AWS Certified Cloud Practitioner Badge">
